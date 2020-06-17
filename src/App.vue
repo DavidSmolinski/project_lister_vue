@@ -152,10 +152,11 @@ export default {
 }
 
 .jumbo-heading {
-  background-color: rgb(97, 218, 251);
+  /* background-color: rgb(97, 218, 251); */
+  background-color: #42b983;
   padding: 4px;
   color: white;
-  border: 1px solid rgb(97, 218, 251);
+  border: 1px solid #42b983;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12) !important;
 }
 
